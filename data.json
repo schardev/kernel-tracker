@@ -94,9 +94,9 @@
         }
     },
     "linux-next": {
-        "next-20211130": {
-            "date": "2021-11-30",
-            "browse": "https://git.kernel.org/next/linux-next/h/next-20211130"
+        "next-20211201": {
+            "date": "2021-12-01",
+            "browse": "https://git.kernel.org/next/linux-next/h/next-20211201"
         }
     }
 }
