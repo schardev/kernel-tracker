@@ -1,12 +1,12 @@
 {
     "mainline": {
-        "5.16-rc3": {
-            "date": "2021-11-28",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-5.16-rc3.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v5.16-rc3/v5.15",
-            "inc. patch": "https://git.kernel.org/torvalds/p/v5.16-rc3/v5.16-rc2",
-            "view diff": "https://git.kernel.org/torvalds/ds/v5.16-rc3/v5.16-rc2",
-            "browse": "https://git.kernel.org/torvalds/h/v5.16-rc3"
+        "5.16-rc4": {
+            "date": "2021-12-05",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-5.16-rc4.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v5.16-rc4/v5.15",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v5.16-rc4/v5.16-rc3",
+            "view diff": "https://git.kernel.org/torvalds/ds/v5.16-rc4/v5.16-rc3",
+            "browse": "https://git.kernel.org/torvalds/h/v5.16-rc4"
         }
     },
     "stable": {
