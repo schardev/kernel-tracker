@@ -42,15 +42,15 @@
             "browse": "https://git.kernel.org/stable/h/v5.10.85",
             "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.85"
         },
-        "5.4.164": {
-            "date": "2021-12-08",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.164.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.164.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.164.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.163-164.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.4.164/v5.4.163",
-            "browse": "https://git.kernel.org/stable/h/v5.4.164",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.164"
+        "5.4.165": {
+            "date": "2021-12-14",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.165.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.165.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.165.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.164-165.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.4.165/v5.4.164",
+            "browse": "https://git.kernel.org/stable/h/v5.4.165",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.165"
         },
         "4.19.221": {
             "date": "2021-12-14",
@@ -94,9 +94,9 @@
         }
     },
     "linux-next": {
-        "next-20211208": {
-            "date": "2021-12-08",
-            "browse": "https://git.kernel.org/next/linux-next/h/next-20211208"
+        "next-20211210": {
+            "date": "2021-12-14",
+            "browse": "https://git.kernel.org/next/linux-next/h/next-20211210"
         }
     }
 }
