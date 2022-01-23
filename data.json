@@ -1,12 +1,11 @@
 {
     "mainline": {
-        "5.16": {
-            "date": "2022-01-09",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.16.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.16.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.16.xz",
-            "view diff": "https://git.kernel.org/torvalds/ds/v5.16/v5.15",
-            "browse": "https://git.kernel.org/torvalds/h/v5.16"
+        "5.17-rc1": {
+            "date": "2022-01-23",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-5.17-rc1.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v5.17-rc1/v5.16",
+            "view diff": "https://git.kernel.org/torvalds/ds/v5.17-rc1/v5.16",
+            "browse": "https://git.kernel.org/torvalds/h/v5.17-rc1"
         }
     },
     "stable": {
