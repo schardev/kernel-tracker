@@ -82,15 +82,15 @@
             "browse": "https://git.kernel.org/stable/h/v4.9.299",
             "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.299"
         },
-        "4.4.301": {
-            "date": "2022-01-29",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.301.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.301.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.4.301.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.4.300-301.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v4.4.301/v4.4.300",
-            "browse": "https://git.kernel.org/stable/h/v4.4.301",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.4.301"
+        "4.4.302 [EOL]": {
+            "date": "2022-02-03",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.302.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.302.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.4.302.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.4.301-302.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v4.4.302/v4.4.301",
+            "browse": "https://git.kernel.org/stable/h/v4.4.302",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.4.302"
         }
     },
     "linux-next": {
