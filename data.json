@@ -1,12 +1,12 @@
 {
     "mainline": {
-        "5.17-rc6": {
-            "date": "2022-02-27",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-5.17-rc6.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v5.17-rc6/v5.16",
-            "inc. patch": "https://git.kernel.org/torvalds/p/v5.17-rc6/v5.17-rc5",
-            "view diff": "https://git.kernel.org/torvalds/ds/v5.17-rc6/v5.17-rc5",
-            "browse": "https://git.kernel.org/torvalds/h/v5.17-rc6"
+        "5.17-rc7": {
+            "date": "2022-03-06",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-5.17-rc7.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v5.17-rc7/v5.16",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v5.17-rc7/v5.17-rc6",
+            "view diff": "https://git.kernel.org/torvalds/ds/v5.17-rc7/v5.17-rc6",
+            "browse": "https://git.kernel.org/torvalds/h/v5.17-rc7"
         }
     },
     "stable": {
@@ -81,16 +81,6 @@
             "view diff": "https://git.kernel.org/stable/ds/v4.9.304/v4.9.303",
             "browse": "https://git.kernel.org/stable/h/v4.9.304",
             "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.304"
-        },
-        "4.4.302 [EOL]": {
-            "date": "2022-02-03",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.302.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.302.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.4.302.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.4.301-302.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v4.4.302/v4.4.301",
-            "browse": "https://git.kernel.org/stable/h/v4.4.302",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.4.302"
         }
     },
     "linux-next": {
