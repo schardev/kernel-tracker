@@ -52,35 +52,35 @@
             "browse": "https://git.kernel.org/stable/h/v5.4.182",
             "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.182"
         },
-        "4.19.232": {
-            "date": "2022-03-02",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.232.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.232.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.232.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.231-232.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v4.19.232/v4.19.231",
-            "browse": "https://git.kernel.org/stable/h/v4.19.232",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.232"
+        "4.19.233": {
+            "date": "2022-03-08",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.233.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.233.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.233.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.232-233.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v4.19.233/v4.19.232",
+            "browse": "https://git.kernel.org/stable/h/v4.19.233",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.233"
         },
-        "4.14.269": {
-            "date": "2022-03-02",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.269.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.269.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.269.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.268-269.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v4.14.269/v4.14.268",
-            "browse": "https://git.kernel.org/stable/h/v4.14.269",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.269"
+        "4.14.270": {
+            "date": "2022-03-08",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.270.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.270.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.270.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.269-270.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v4.14.270/v4.14.269",
+            "browse": "https://git.kernel.org/stable/h/v4.14.270",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.270"
         },
-        "4.9.304": {
-            "date": "2022-03-02",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.304.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.304.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.9.304.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.9.303-304.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v4.9.304/v4.9.303",
-            "browse": "https://git.kernel.org/stable/h/v4.9.304",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.304"
+        "4.9.305": {
+            "date": "2022-03-08",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.305.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.305.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.9.305.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.9.304-305.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v4.9.305/v4.9.304",
+            "browse": "https://git.kernel.org/stable/h/v4.9.305",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.305"
         }
     },
     "linux-next": {
