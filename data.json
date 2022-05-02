@@ -1,12 +1,12 @@
 {
     "mainline": {
-        "5.18-rc4": {
-            "date": "2022-04-24",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-5.18-rc4.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v5.18-rc4/v5.17",
-            "inc. patch": "https://git.kernel.org/torvalds/p/v5.18-rc4/v5.18-rc3",
-            "view diff": "https://git.kernel.org/torvalds/ds/v5.18-rc4/v5.18-rc3",
-            "browse": "https://git.kernel.org/torvalds/h/v5.18-rc4"
+        "5.18-rc5": {
+            "date": "2022-05-01",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-5.18-rc5.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v5.18-rc5/v5.17",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v5.18-rc5/v5.18-rc4",
+            "view diff": "https://git.kernel.org/torvalds/ds/v5.18-rc5/v5.18-rc4",
+            "browse": "https://git.kernel.org/torvalds/h/v5.18-rc5"
         }
     },
     "stable": {
