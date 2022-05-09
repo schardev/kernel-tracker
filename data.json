@@ -10,15 +10,15 @@
         }
     },
     "stable": {
-        "5.17.5": {
-            "date": "2022-04-27",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.17.5.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.17.4-5.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.17.5/v5.17.4",
-            "browse": "https://git.kernel.org/stable/h/v5.17.5",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.5"
+        "5.17.6": {
+            "date": "2022-05-09",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.6.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.6.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.17.6.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.17.5-6.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.17.6/v5.17.5",
+            "browse": "https://git.kernel.org/stable/h/v5.17.6",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.6"
         },
         "5.16.20 [EOL]": {
             "date": "2022-04-13",
@@ -32,35 +32,35 @@
         }
     },
     "longterm": {
-        "5.15.37": {
-            "date": "2022-05-01",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.37.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.37.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.37.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.36-37.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.15.37/v5.15.36",
-            "browse": "https://git.kernel.org/stable/h/v5.15.37",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.37"
+        "5.15.38": {
+            "date": "2022-05-09",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.38.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.38.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.38.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.37-38.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.15.38/v5.15.37",
+            "browse": "https://git.kernel.org/stable/h/v5.15.38",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.38"
         },
-        "5.10.113": {
-            "date": "2022-04-27",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.113.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.113.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.113.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.112-113.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.10.113/v5.10.112",
-            "browse": "https://git.kernel.org/stable/h/v5.10.113",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.113"
+        "5.10.114": {
+            "date": "2022-05-09",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.114.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.114.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.114.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.113-114.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.10.114/v5.10.113",
+            "browse": "https://git.kernel.org/stable/h/v5.10.114",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.114"
         },
-        "5.4.191": {
-            "date": "2022-04-27",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.191.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.191.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.191.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.190-191.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.4.191/v5.4.190",
-            "browse": "https://git.kernel.org/stable/h/v5.4.191",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.191"
+        "5.4.192": {
+            "date": "2022-05-09",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.192.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.192.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.192.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.191-192.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.4.192/v5.4.191",
+            "browse": "https://git.kernel.org/stable/h/v5.4.192",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.192"
         },
         "4.19.241": {
             "date": "2022-05-01",
@@ -94,9 +94,9 @@
         }
     },
     "linux-next": {
-        "next-20220506": {
-            "date": "2022-05-06",
-            "browse": "https://git.kernel.org/next/linux-next/h/next-20220506"
+        "next-20220509": {
+            "date": "2022-05-09",
+            "browse": "https://git.kernel.org/next/linux-next/h/next-20220509"
         }
     }
 }
