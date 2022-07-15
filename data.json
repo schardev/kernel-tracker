@@ -10,57 +10,47 @@
         }
     },
     "stable": {
-        "5.18.11": {
-            "date": "2022-07-12",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.11.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.11.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.18.11.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.18.10-11.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.18.11/v5.18.10",
-            "browse": "https://git.kernel.org/stable/h/v5.18.11",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.18.11"
-        },
-        "5.17.15 [EOL]": {
-            "date": "2022-06-14",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.15.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.15.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.17.15.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.17.14-15.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.17.15/v5.17.14",
-            "browse": "https://git.kernel.org/stable/h/v5.17.15",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.15"
+        "5.18.12": {
+            "date": "2022-07-15",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.12.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.12.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.18.12.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.18.11-12.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.18.12/v5.18.11",
+            "browse": "https://git.kernel.org/stable/h/v5.18.12",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.18.12"
         }
     },
     "longterm": {
-        "5.15.54": {
-            "date": "2022-07-12",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.54.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.54.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.54.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.53-54.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.15.54/v5.15.53",
-            "browse": "https://git.kernel.org/stable/h/v5.15.54",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.54"
+        "5.15.55": {
+            "date": "2022-07-15",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.55.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.55.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.55.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.54-55.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.15.55/v5.15.54",
+            "browse": "https://git.kernel.org/stable/h/v5.15.55",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.55"
         },
-        "5.10.130": {
-            "date": "2022-07-12",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.130.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.130.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.130.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.129-130.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.10.130/v5.10.129",
-            "browse": "https://git.kernel.org/stable/h/v5.10.130",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.130"
+        "5.10.131": {
+            "date": "2022-07-15",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.131.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.131.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.131.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.130-131.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.10.131/v5.10.130",
+            "browse": "https://git.kernel.org/stable/h/v5.10.131",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.131"
         },
-        "5.4.205": {
-            "date": "2022-07-12",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.205.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.205.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.205.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.204-205.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.4.205/v5.4.204",
-            "browse": "https://git.kernel.org/stable/h/v5.4.205",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.205"
+        "5.4.206": {
+            "date": "2022-07-15",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.206.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.206.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.206.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.205-206.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.4.206/v5.4.205",
+            "browse": "https://git.kernel.org/stable/h/v5.4.206",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.206"
         },
         "4.19.252": {
             "date": "2022-07-12",
