@@ -1,12 +1,12 @@
 {
     "mainline": {
-        "5.19-rc7": {
-            "date": "2022-07-17",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-5.19-rc7.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v5.19-rc7/v5.18",
-            "inc. patch": "https://git.kernel.org/torvalds/p/v5.19-rc7/v5.19-rc6",
-            "view diff": "https://git.kernel.org/torvalds/ds/v5.19-rc7/v5.19-rc6",
-            "browse": "https://git.kernel.org/torvalds/h/v5.19-rc7"
+        "5.19-rc8": {
+            "date": "2022-07-24",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-5.19-rc8.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v5.19-rc8/v5.18",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v5.19-rc8/v5.19-rc7",
+            "view diff": "https://git.kernel.org/torvalds/ds/v5.19-rc8/v5.19-rc7",
+            "browse": "https://git.kernel.org/torvalds/h/v5.19-rc8"
         }
     },
     "stable": {
