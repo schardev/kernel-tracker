@@ -32,15 +32,15 @@
             "browse": "https://git.kernel.org/stable/h/v5.15.57",
             "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.57"
         },
-        "5.10.132": {
-            "date": "2022-07-21",
-            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.132.tar.xz",
-            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.132.tar.sign",
-            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.132.xz",
-            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.131-132.xz",
-            "view diff": "https://git.kernel.org/stable/ds/v5.10.132/v5.10.131",
-            "browse": "https://git.kernel.org/stable/h/v5.10.132",
-            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.132"
+        "5.10.133": {
+            "date": "2022-07-25",
+            "tarball": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.133.tar.xz",
+            "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.133.tar.sign",
+            "patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.133.xz",
+            "inc. patch": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.132-133.xz",
+            "view diff": "https://git.kernel.org/stable/ds/v5.10.133/v5.10.132",
+            "browse": "https://git.kernel.org/stable/h/v5.10.133",
+            "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.133"
         },
         "5.4.207": {
             "date": "2022-07-21",
@@ -84,9 +84,9 @@
         }
     },
     "linux-next": {
-        "next-20220722": {
-            "date": "2022-07-22",
-            "browse": "https://git.kernel.org/next/linux-next/h/next-20220722"
+        "next-20220725": {
+            "date": "2022-07-25",
+            "browse": "https://git.kernel.org/next/linux-next/h/next-20220725"
         }
     }
 }
