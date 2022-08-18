@@ -92,9 +92,9 @@
         }
     },
     "linux-next": {
-        "next-20220817": {
-            "date": "2022-08-17",
-            "browse": "https://git.kernel.org/next/linux-next/h/next-20220817"
+        "next-20220818": {
+            "date": "2022-08-18",
+            "browse": "https://git.kernel.org/next/linux-next/h/next-20220818"
         }
     }
 }
