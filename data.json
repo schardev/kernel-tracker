@@ -1,10 +1,12 @@
 {
     "mainline": {
-        "6.0-rc1": {
-            "date": "2022-08-14",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-6.0-rc1.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v6.0-rc1/vNone",
-            "browse": "https://git.kernel.org/torvalds/h/v6.0-rc1"
+        "6.0-rc2": {
+            "date": "2022-08-22",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-6.0-rc2.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v6.0-rc2/vNone",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v6.0-rc2/v6.0-rc1",
+            "view diff": "https://git.kernel.org/torvalds/ds/v6.0-rc2/v6.0-rc1",
+            "browse": "https://git.kernel.org/torvalds/h/v6.0-rc2"
         }
     },
     "stable": {
