@@ -1,12 +1,12 @@
 {
     "mainline": {
-        "6.0-rc3": {
-            "date": "2022-08-28",
-            "tarball": "https://git.kernel.org/torvalds/t/linux-6.0-rc3.tar.gz",
-            "patch": "https://git.kernel.org/torvalds/p/v6.0-rc3/vNone",
-            "inc. patch": "https://git.kernel.org/torvalds/p/v6.0-rc3/v6.0-rc2",
-            "view diff": "https://git.kernel.org/torvalds/ds/v6.0-rc3/v6.0-rc2",
-            "browse": "https://git.kernel.org/torvalds/h/v6.0-rc3"
+        "6.0-rc4": {
+            "date": "2022-09-04",
+            "tarball": "https://git.kernel.org/torvalds/t/linux-6.0-rc4.tar.gz",
+            "patch": "https://git.kernel.org/torvalds/p/v6.0-rc4/vNone",
+            "inc. patch": "https://git.kernel.org/torvalds/p/v6.0-rc4/v6.0-rc3",
+            "view diff": "https://git.kernel.org/torvalds/ds/v6.0-rc4/v6.0-rc3",
+            "browse": "https://git.kernel.org/torvalds/h/v6.0-rc4"
         }
     },
     "stable": {
