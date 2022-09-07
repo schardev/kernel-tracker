@@ -1,0 +1,26 @@
+{
+  "name": "kernel-tracker",
+  "version": "0.0.1",
+  "description": "Linux kernel release tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "npx eslint .",
+    "notify": "node notify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhchardereal/kernel-tracker.git"
+  },
+  "author": "Saurabh Charde <saurabhchardereal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhchardereal/kernel-tracker/issues"
+  },
+  "homepage": "https://github.com/saurabhchardereal/kernel-tracker#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}

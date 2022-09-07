@@ -1,0 +1,38 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+  schedule:
+    - cron: '0 */6 * * *' # Run past every 6th hour
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    env:
+      BOT_API: ${{ secrets.BOT_API }}
+      CHAT_ID: ${{ secrets.CHAT_ID }}
+    name: Notify Kernel Release
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run script
+        run: |
+          node notify.js
+
+      - name: Commit db changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ $(git diff --name-only) ]; then
+          git add --all && git commit -m "chore: new kernel update! [$(date --utc +'%F')]"
+              git push
+          else
+              echo "Kernel db already up-to-date!"
+          fi
