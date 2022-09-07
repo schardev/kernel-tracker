@@ -1,5 +1,0 @@
-#!/bin/env python3
-
-from tracker import __main__
-
-__main__.main()
