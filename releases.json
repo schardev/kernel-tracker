@@ -40,24 +40,6 @@
       }
     },
     {
-      "iseol": true,
-      "version": "5.18.19",
-      "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.19.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.18.19.tar.sign",
-      "released": {
-        "timestamp": 1661087943,
-        "isodate": "2022-08-21"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v5.18.19",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.18.19",
-      "diffview": "https://git.kernel.org/stable/ds/v5.18.19/v5.18.18",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.18.19.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.18.18-19.xz"
-      }
-    },
-    {
       "iseol": false,
       "version": "5.15.69",
       "moniker": "longterm",
@@ -167,15 +149,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20220920",
+      "version": "next-20220921",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1663661605,
-        "isodate": "2022-09-20"
+        "timestamp": 1663750593,
+        "isodate": "2022-09-21"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20220920",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20220921",
       "changelog": null,
       "diffview": null,
       "patch": {
