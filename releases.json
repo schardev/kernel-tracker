@@ -1,6 +1,6 @@
 {
   "latest_stable": {
-    "version": "5.19.11"
+    "version": "5.19.12"
   },
   "releases": [
     {
@@ -23,128 +23,128 @@
     },
     {
       "iseol": false,
-      "version": "5.19.11",
+      "version": "5.19.12",
       "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.11.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.11.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.12.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.12.tar.sign",
       "released": {
-        "timestamp": 1663935253,
-        "isodate": "2022-09-23"
+        "timestamp": 1664357553,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.19.11",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.19.11",
-      "diffview": "https://git.kernel.org/stable/ds/v5.19.11/v5.19.10",
+      "gitweb": "https://git.kernel.org/stable/h/v5.19.12",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.19.12",
+      "diffview": "https://git.kernel.org/stable/ds/v5.19.12/v5.19.11",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.19.11.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.19.10-11.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.19.12.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.19.11-12.xz"
       }
     },
     {
       "iseol": false,
-      "version": "5.15.70",
+      "version": "5.15.71",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.70.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.70.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.71.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.71.tar.sign",
       "released": {
-        "timestamp": 1663935358,
-        "isodate": "2022-09-23"
+        "timestamp": 1664356341,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.15.70",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.70",
-      "diffview": "https://git.kernel.org/stable/ds/v5.15.70/v5.15.69",
+      "gitweb": "https://git.kernel.org/stable/h/v5.15.71",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.71",
+      "diffview": "https://git.kernel.org/stable/ds/v5.15.71/v5.15.70",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.70.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.69-70.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.71.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.70-71.xz"
       }
     },
     {
       "iseol": false,
-      "version": "5.10.145",
+      "version": "5.10.146",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.145.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.145.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.146.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.146.tar.sign",
       "released": {
-        "timestamp": 1663935458,
-        "isodate": "2022-09-23"
+        "timestamp": 1664356246,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.10.145",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.145",
-      "diffview": "https://git.kernel.org/stable/ds/v5.10.145/v5.10.144",
+      "gitweb": "https://git.kernel.org/stable/h/v5.10.146",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.146",
+      "diffview": "https://git.kernel.org/stable/ds/v5.10.146/v5.10.145",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.145.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.144-145.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.146.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.145-146.xz"
       }
     },
     {
       "iseol": false,
-      "version": "5.4.214",
+      "version": "5.4.215",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.214.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.214.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.215.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.215.tar.sign",
       "released": {
-        "timestamp": 1663669710,
-        "isodate": "2022-09-20"
+        "timestamp": 1664355857,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.214",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.214",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.214/v5.4.213",
+      "gitweb": "https://git.kernel.org/stable/h/v5.4.215",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.215",
+      "diffview": "https://git.kernel.org/stable/ds/v5.4.215/v5.4.214",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.214.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.213-214.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.215.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.214-215.xz"
       }
     },
     {
       "iseol": false,
-      "version": "4.19.259",
+      "version": "4.19.260",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.259.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.259.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.260.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.260.tar.sign",
       "released": {
-        "timestamp": 1663669612,
-        "isodate": "2022-09-20"
+        "timestamp": 1664355783,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.19.259",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.259",
-      "diffview": "https://git.kernel.org/stable/ds/v4.19.259/v4.19.258",
+      "gitweb": "https://git.kernel.org/stable/h/v4.19.260",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.260",
+      "diffview": "https://git.kernel.org/stable/ds/v4.19.260/v4.19.259",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.259.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.258-259.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.260.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.259-260.xz"
       }
     },
     {
       "iseol": false,
-      "version": "4.14.294",
+      "version": "4.14.295",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.294.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.294.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.295.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.295.tar.sign",
       "released": {
-        "timestamp": 1663667509,
-        "isodate": "2022-09-20"
+        "timestamp": 1664355512,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.14.294",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.294",
-      "diffview": "https://git.kernel.org/stable/ds/v4.14.294/v4.14.293",
+      "gitweb": "https://git.kernel.org/stable/h/v4.14.295",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.295",
+      "diffview": "https://git.kernel.org/stable/ds/v4.14.295/v4.14.294",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.294.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.293-294.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.295.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.294-295.xz"
       }
     },
     {
       "iseol": false,
-      "version": "4.9.329",
+      "version": "4.9.330",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.329.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.329.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.330.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.330.tar.sign",
       "released": {
-        "timestamp": 1663667423,
-        "isodate": "2022-09-20"
+        "timestamp": 1664355353,
+        "isodate": "2022-09-28"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.9.329",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.329",
-      "diffview": "https://git.kernel.org/stable/ds/v4.9.329/v4.9.328",
+      "gitweb": "https://git.kernel.org/stable/h/v4.9.330",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.330",
+      "diffview": "https://git.kernel.org/stable/ds/v4.9.330/v4.9.329",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.9.329.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.9.328-329.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.9.330.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.9.329-330.xz"
       }
     },
     {
