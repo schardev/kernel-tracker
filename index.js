@@ -69,7 +69,7 @@ const sendtoTG = async (releases, chatID, botAPI) => {
 release: <code>${rel.moniker}</code>
 version: <code>${rel.version} ${isEOL}</code>
 date: <code>${rel.released.isodate}</code>
-patch: <a href="${rel.patch.full}">full</a> | <a href="${rel.patch.incremental}">incremental</a>
+patch: <a href="${rel.patch.full}">full</a> | <a href="${rel.patch.incremental || rel.patch.full}">incremental</a>
 `;
 
     requestBody.reply_markup = { inline_keyboard: [] };
