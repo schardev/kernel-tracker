@@ -77,20 +77,20 @@
     },
     {
       "iseol": false,
-      "version": "5.4.216",
+      "version": "5.4.217",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.216.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.216.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.217.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.217.tar.sign",
       "released": {
-        "timestamp": 1664959071,
-        "isodate": "2022-10-05"
+        "timestamp": 1665127022,
+        "isodate": "2022-10-07"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.216",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.216",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.216/v5.4.215",
+      "gitweb": "https://git.kernel.org/stable/h/v5.4.217",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.217",
+      "diffview": "https://git.kernel.org/stable/ds/v5.4.217/v5.4.216",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.216.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.215-216.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.217.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.216-217.xz"
       }
     },
     {
@@ -149,15 +149,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20221006",
+      "version": "next-20221007",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1665041849,
-        "isodate": "2022-10-06"
+        "timestamp": 1665126070,
+        "isodate": "2022-10-07"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20221006",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20221007",
       "changelog": null,
       "diffview": null,
       "patch": {
