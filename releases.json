@@ -5,19 +5,19 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.0",
+      "version": "6.1-rc1",
       "moniker": "mainline",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.1-rc1.tar.gz",
+      "pgp": null,
       "released": {
-        "timestamp": 1664744947,
-        "isodate": "2022-10-02"
+        "timestamp": 1665959784,
+        "isodate": "2022-10-16"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.0",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.1-rc1",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.0/v5.19",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.1-rc1/v6.0",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.0.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.1-rc1/v6.0",
         "incremental": null
       }
     },
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20221014",
+      "version": "next-20221017",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1665712564,
-        "isodate": "2022-10-14"
+        "timestamp": 1665969352,
+        "isodate": "2022-10-17"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20221014",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20221017",
       "changelog": null,
       "diffview": null,
       "patch": {
