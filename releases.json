@@ -172,7 +172,7 @@
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1665969352,
+        "timestamp": 1665969578,
         "isodate": "2022-10-17"
       },
       "gitweb": "https://git.kernel.org/next/linux-next/h/next-20221017",
