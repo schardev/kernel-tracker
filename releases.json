@@ -1,6 +1,6 @@
 {
   "latest_stable": {
-    "version": "6.0.2"
+    "version": "6.0.3"
   },
   "releases": [
     {
@@ -23,20 +23,20 @@
     },
     {
       "iseol": false,
-      "version": "6.0.2",
+      "version": "6.0.3",
       "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.2.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.2.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.3.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.3.tar.sign",
       "released": {
-        "timestamp": 1665813790,
-        "isodate": "2022-10-15"
+        "timestamp": 1666348849,
+        "isodate": "2022-10-21"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.0.2",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.0.2",
-      "diffview": "https://git.kernel.org/stable/ds/v6.0.2/v6.0.1",
+      "gitweb": "https://git.kernel.org/stable/h/v6.0.3",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.0.3",
+      "diffview": "https://git.kernel.org/stable/ds/v6.0.3/v6.0.2",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.0.2.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.0.1-2.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.0.3.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.0.2-3.xz"
       }
     },
     {
