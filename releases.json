@@ -40,21 +40,21 @@
       }
     },
     {
-      "iseol": false,
-      "version": "5.19.16",
+      "iseol": true,
+      "version": "5.19.17",
       "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.16.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.16.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.17.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.17.tar.sign",
       "released": {
-        "timestamp": 1665813712,
-        "isodate": "2022-10-15"
+        "timestamp": 1666598373,
+        "isodate": "2022-10-24"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.19.16",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.19.16",
-      "diffview": "https://git.kernel.org/stable/ds/v5.19.16/v5.19.15",
+      "gitweb": "https://git.kernel.org/stable/h/v5.19.17",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.19.17",
+      "diffview": "https://git.kernel.org/stable/ds/v5.19.17/v5.19.16",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.19.16.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.19.15-16.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.19.17.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.19.16-17.xz"
       }
     },
     {
