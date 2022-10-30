@@ -77,20 +77,20 @@
     },
     {
       "iseol": false,
-      "version": "5.10.151",
+      "version": "5.10.152",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.151.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.151.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.152.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.152.tar.sign",
       "released": {
-        "timestamp": 1666954970,
-        "isodate": "2022-10-28"
+        "timestamp": 1667119284,
+        "isodate": "2022-10-30"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.10.151",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.151",
-      "diffview": "https://git.kernel.org/stable/ds/v5.10.151/v5.10.150",
+      "gitweb": "https://git.kernel.org/stable/h/v5.10.152",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.152",
+      "diffview": "https://git.kernel.org/stable/ds/v5.10.152/v5.10.151",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.151.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.150-151.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.152.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.151-152.xz"
       }
     },
     {
