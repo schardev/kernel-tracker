@@ -40,24 +40,6 @@
       }
     },
     {
-      "iseol": true,
-      "version": "5.19.17",
-      "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.17.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.17.tar.sign",
-      "released": {
-        "timestamp": 1666598373,
-        "isodate": "2022-10-24"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v5.19.17",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.19.17",
-      "diffview": "https://git.kernel.org/stable/ds/v5.19.17/v5.19.16",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.19.17.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.19.16-17.xz"
-      }
-    },
-    {
       "iseol": false,
       "version": "5.15.79",
       "moniker": "longterm",
@@ -113,20 +95,20 @@
     },
     {
       "iseol": false,
-      "version": "4.19.265",
+      "version": "4.19.266",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.265.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.265.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.266.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.266.tar.sign",
       "released": {
-        "timestamp": 1668098843,
-        "isodate": "2022-11-10"
+        "timestamp": 1669186439,
+        "isodate": "2022-11-23"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.19.265",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.265",
-      "diffview": "https://git.kernel.org/stable/ds/v4.19.265/v4.19.264",
+      "gitweb": "https://git.kernel.org/stable/h/v4.19.266",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.266",
+      "diffview": "https://git.kernel.org/stable/ds/v4.19.266/v4.19.265",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.265.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.264-265.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.266.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.265-266.xz"
       }
     },
     {
