@@ -5,19 +5,19 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.1",
+      "version": "6.2-rc1",
       "moniker": "mainline",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc1.tar.gz",
+      "pgp": null,
       "released": {
-        "timestamp": 1670796918,
-        "isodate": "2022-12-11"
+        "timestamp": 1672004499,
+        "isodate": "2022-12-25"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.1",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc1",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.1/v6.0",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc1/v6.1",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.2-rc1/v6.1",
         "incremental": null
       }
     },
