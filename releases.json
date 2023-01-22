@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.2-rc4",
+      "version": "6.2-rc5",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc4.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc5.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1673796163,
-        "isodate": "2023-01-15"
+        "timestamp": 1674347221,
+        "isodate": "2023-01-22"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc4",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc5",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc4/v6.2-rc3",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc5/v6.2-rc4",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.2-rc4/v6.1",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.2-rc4/v6.2-rc3"
+        "full": "https://git.kernel.org/torvalds/p/v6.2-rc5/v6.1",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.2-rc5/v6.2-rc4"
       }
     },
     {
