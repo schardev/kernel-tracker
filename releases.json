@@ -131,20 +131,20 @@
     },
     {
       "iseol": false,
-      "version": "4.14.303",
+      "version": "4.14.304",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.303.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.303.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.304.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.304.tar.sign",
       "released": {
-        "timestamp": 1674030439,
-        "isodate": "2023-01-18"
+        "timestamp": 1674540335,
+        "isodate": "2023-01-24"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.14.303",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.303",
-      "diffview": "https://git.kernel.org/stable/ds/v4.14.303/v4.14.302",
+      "gitweb": "https://git.kernel.org/stable/h/v4.14.304",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.304",
+      "diffview": "https://git.kernel.org/stable/ds/v4.14.304/v4.14.303",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.303.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.302-303.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.304.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.303-304.xz"
       }
     },
     {
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20230123",
+      "version": "next-20230124",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1674448130,
-        "isodate": "2023-01-23"
+        "timestamp": 1674531539,
+        "isodate": "2023-01-24"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230123",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230124",
       "changelog": null,
       "diffview": null,
       "patch": {
