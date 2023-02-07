@@ -148,34 +148,16 @@
       }
     },
     {
-      "iseol": true,
-      "version": "4.9.337",
-      "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.337.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.337.tar.sign",
-      "released": {
-        "timestamp": 1673089662,
-        "isodate": "2023-01-07"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v4.9.337",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.337",
-      "diffview": "https://git.kernel.org/stable/ds/v4.9.337/v4.9.336",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.9.337.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.9.336-337.xz"
-      }
-    },
-    {
       "iseol": false,
-      "version": "next-20230206",
+      "version": "next-20230207",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1675658622,
-        "isodate": "2023-02-06"
+        "timestamp": 1675747357,
+        "isodate": "2023-02-07"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230206",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230207",
       "changelog": null,
       "diffview": null,
       "patch": {
