@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.2-rc7",
+      "version": "6.2-rc8",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc7.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc8.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1675631608,
-        "isodate": "2023-02-05"
+        "timestamp": 1676239817,
+        "isodate": "2023-02-12"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc7",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc8",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc7/v6.2-rc6",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc8/v6.2-rc7",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.2-rc7/v6.1",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.2-rc7/v6.2-rc6"
+        "full": "https://git.kernel.org/torvalds/p/v6.2-rc8/v6.1",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.2-rc8/v6.2-rc7"
       }
     },
     {
@@ -37,24 +37,6 @@
       "patch": {
         "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.11.xz",
         "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.10-11.xz"
-      }
-    },
-    {
-      "iseol": true,
-      "version": "6.0.19",
-      "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.19.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.19.tar.sign",
-      "released": {
-        "timestamp": 1673521254,
-        "isodate": "2023-01-12"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v6.0.19",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.0.19",
-      "diffview": "https://git.kernel.org/stable/ds/v6.0.19/v6.0.18",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.0.19.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.0.18-19.xz"
       }
     },
     {
