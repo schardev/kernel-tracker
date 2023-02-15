@@ -59,20 +59,20 @@
     },
     {
       "iseol": false,
-      "version": "5.10.167",
+      "version": "5.10.168",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.167.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.167.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.168.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.168.tar.sign",
       "released": {
-        "timestamp": 1675666583,
-        "isodate": "2023-02-06"
+        "timestamp": 1676478228,
+        "isodate": "2023-02-15"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.10.167",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.167",
-      "diffview": "https://git.kernel.org/stable/ds/v5.10.167/v5.10.166",
+      "gitweb": "https://git.kernel.org/stable/h/v5.10.168",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.168",
+      "diffview": "https://git.kernel.org/stable/ds/v5.10.168/v5.10.167",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.167.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.166-167.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.168.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.167-168.xz"
       }
     },
     {
