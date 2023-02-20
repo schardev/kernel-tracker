@@ -1,24 +1,24 @@
 {
   "latest_stable": {
-    "version": "6.1.12"
+    "version": "6.2"
   },
   "releases": [
     {
       "iseol": false,
-      "version": "6.2-rc8",
+      "version": "6.2",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.2-rc8.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.2.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.2.tar.sign",
       "released": {
-        "timestamp": 1676239817,
-        "isodate": "2023-02-12"
+        "timestamp": 1676845462,
+        "isodate": "2023-02-19"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.2-rc8",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.2",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.2-rc8/v6.2-rc7",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.2/v6.1",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.2-rc8/v6.1",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.2-rc8/v6.2-rc7"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.2.xz",
+        "incremental": null
       }
     },
     {
