@@ -95,20 +95,20 @@
     },
     {
       "iseol": false,
-      "version": "5.4.238",
+      "version": "5.4.239",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.238.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.238.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.239.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.239.tar.sign",
       "released": {
-        "timestamp": 1679488101,
-        "isodate": "2023-03-22"
+        "timestamp": 1680181472,
+        "isodate": "2023-03-30"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.238",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.238",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.238/v5.4.237",
+      "gitweb": "https://git.kernel.org/stable/h/v5.4.239",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.239",
+      "diffview": "https://git.kernel.org/stable/ds/v5.4.239/v5.4.238",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.238.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.237-238.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.239.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.238-239.xz"
       }
     },
     {
