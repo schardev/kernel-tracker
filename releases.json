@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.4-rc6",
+      "version": "6.4-rc7",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.4-rc6.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.4-rc7.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1686519330,
-        "isodate": "2023-06-11"
+        "timestamp": 1687122387,
+        "isodate": "2023-06-18"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.4-rc6",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.4-rc7",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.4-rc6/v6.4-rc5",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.4-rc7/v6.4-rc6",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.4-rc6/v6.3",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.4-rc6/v6.4-rc5"
+        "full": "https://git.kernel.org/torvalds/p/v6.4-rc7/v6.3",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.4-rc7/v6.4-rc6"
       }
     },
     {
@@ -37,24 +37,6 @@
       "patch": {
         "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.3.8.xz",
         "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.3.7-8.xz"
-      }
-    },
-    {
-      "iseol": true,
-      "version": "6.2.16",
-      "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.2.16.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.2.16.tar.sign",
-      "released": {
-        "timestamp": 1684324764,
-        "isodate": "2023-05-17"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v6.2.16",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.2.16",
-      "diffview": "https://git.kernel.org/stable/ds/v6.2.16/v6.2.15",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.2.16.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.2.15-16.xz"
       }
     },
     {
