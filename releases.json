@@ -5,19 +5,19 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.4",
+      "version": "6.5-rc1",
       "moniker": "mainline",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.5-rc1.tar.gz",
+      "pgp": null,
       "released": {
-        "timestamp": 1687735798,
-        "isodate": "2023-06-25"
+        "timestamp": 1688935993,
+        "isodate": "2023-07-09"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.4",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.5-rc1",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.4/v6.3",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.5-rc1/v6.4",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.4.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.5-rc1/v6.4",
         "incremental": null
       }
     },
