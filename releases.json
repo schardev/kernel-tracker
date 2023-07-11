@@ -1,6 +1,6 @@
 {
   "latest_stable": {
-    "version": "6.4.2"
+    "version": "6.4.3"
   },
   "releases": [
     {
@@ -23,20 +23,20 @@
     },
     {
       "iseol": false,
-      "version": "6.4.2",
+      "version": "6.4.3",
       "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.2.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.2.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.3.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.3.tar.sign",
       "released": {
-        "timestamp": 1688578242,
-        "isodate": "2023-07-05"
+        "timestamp": 1689049880,
+        "isodate": "2023-07-11"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.4.2",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.4.2",
-      "diffview": "https://git.kernel.org/stable/ds/v6.4.2/v6.4.1",
+      "gitweb": "https://git.kernel.org/stable/h/v6.4.3",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.4.3",
+      "diffview": "https://git.kernel.org/stable/ds/v6.4.3/v6.4.2",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.4.2.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.4.1-2.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.4.3.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.4.2-3.xz"
       }
     },
     {
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20230710",
+      "version": "next-20230711",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1688953038,
-        "isodate": "2023-07-10"
+        "timestamp": 1689041604,
+        "isodate": "2023-07-11"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230710",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20230711",
       "changelog": null,
       "diffview": null,
       "patch": {
