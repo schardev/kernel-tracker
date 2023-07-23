@@ -77,20 +77,20 @@
     },
     {
       "iseol": false,
-      "version": "5.15.120",
+      "version": "5.15.121",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.120.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.120.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.121.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.121.tar.sign",
       "released": {
-        "timestamp": 1688577916,
-        "isodate": "2023-07-05"
+        "timestamp": 1690112891,
+        "isodate": "2023-07-23"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.15.120",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.120",
-      "diffview": "https://git.kernel.org/stable/ds/v5.15.120/v5.15.119",
+      "gitweb": "https://git.kernel.org/stable/h/v5.15.121",
+      "changelog": null,
+      "diffview": "https://git.kernel.org/stable/ds/v5.15.121/v5.15.120",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.120.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.119-120.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.121.xz",
+        "incremental": null
       }
     },
     {
