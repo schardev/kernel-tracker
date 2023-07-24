@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.5-rc2",
+      "version": "6.5-rc3",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.5-rc2.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.5-rc3.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1689545437,
-        "isodate": "2023-07-16"
+        "timestamp": 1690151050,
+        "isodate": "2023-07-23"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.5-rc2",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.5-rc3",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.5-rc2/v6.5-rc1",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.5-rc3/v6.5-rc2",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.5-rc2/v6.4",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.5-rc2/v6.5-rc1"
+        "full": "https://git.kernel.org/torvalds/p/v6.5-rc3/v6.4",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.5-rc3/v6.5-rc2"
       }
     },
     {
