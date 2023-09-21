@@ -95,20 +95,20 @@
     },
     {
       "iseol": false,
-      "version": "5.10.195",
+      "version": "5.10.196",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.195.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.195.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.196.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.196.tar.sign",
       "released": {
-        "timestamp": 1695118835,
-        "isodate": "2023-09-19"
+        "timestamp": 1695282327,
+        "isodate": "2023-09-21"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.10.195",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.195",
-      "diffview": "https://git.kernel.org/stable/ds/v5.10.195/v5.10.194",
+      "gitweb": "https://git.kernel.org/stable/h/v5.10.196",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.196",
+      "diffview": "https://git.kernel.org/stable/ds/v5.10.196/v5.10.195",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.195.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.194-195.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.10.196.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.10.195-196.xz"
       }
     },
     {
