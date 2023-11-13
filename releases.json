@@ -5,19 +5,19 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.6",
+      "version": "6.7-rc1",
       "moniker": "mainline",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.7-rc1.tar.gz",
+      "pgp": null,
       "released": {
-        "timestamp": 1698633068,
-        "isodate": "2023-10-30"
+        "timestamp": 1699834747,
+        "isodate": "2023-11-13"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.6",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.7-rc1",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.6/v6.5",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.7-rc1/v6.6",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.7-rc1/v6.6",
         "incremental": null
       }
     },
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20231110",
+      "version": "next-20231113",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1699578394,
-        "isodate": "2023-11-10"
+        "timestamp": 1699836067,
+        "isodate": "2023-11-13"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20231110",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20231113",
       "changelog": null,
       "diffview": null,
       "patch": {
