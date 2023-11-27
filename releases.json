@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.7-rc2",
+      "version": "6.7-rc3",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.7-rc2.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.7-rc3.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1700434934,
-        "isodate": "2023-11-19"
+        "timestamp": 1701057573,
+        "isodate": "2023-11-27"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.7-rc2",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.7-rc3",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.7-rc2/v6.7-rc1",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.7-rc3/v6.7-rc2",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.7-rc2/v6.6",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.7-rc2/v6.7-rc1"
+        "full": "https://git.kernel.org/torvalds/p/v6.7-rc3/v6.6",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.7-rc3/v6.7-rc2"
       }
     },
     {
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20231124",
+      "version": "next-20231127",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1700793159,
-        "isodate": "2023-11-24"
+        "timestamp": 1701057641,
+        "isodate": "2023-11-27"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20231124",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20231127",
       "changelog": null,
       "diffview": null,
       "patch": {
