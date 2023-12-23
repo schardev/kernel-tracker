@@ -77,20 +77,20 @@
     },
     {
       "iseol": false,
-      "version": "5.15.144",
+      "version": "5.15.145",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.144.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.144.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.145.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.15.145.tar.sign",
       "released": {
-        "timestamp": 1703081867,
-        "isodate": "2023-12-20"
+        "timestamp": 1703324526,
+        "isodate": "2023-12-23"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.15.144",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.144",
-      "diffview": "https://git.kernel.org/stable/ds/v5.15.144/v5.15.143",
+      "gitweb": "https://git.kernel.org/stable/h/v5.15.145",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.145",
+      "diffview": "https://git.kernel.org/stable/ds/v5.15.145/v5.15.144",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.144.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.143-144.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.15.145.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.15.144-145.xz"
       }
     },
     {
