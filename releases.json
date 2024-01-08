@@ -1,24 +1,24 @@
 {
   "latest_stable": {
-    "version": "6.6.10"
+    "version": "6.7"
   },
   "releases": [
     {
       "iseol": false,
-      "version": "6.7-rc8",
+      "version": "6.7",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.7-rc8.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.tar.sign",
       "released": {
-        "timestamp": 1704055885,
-        "isodate": "2023-12-31"
+        "timestamp": 1704658718,
+        "isodate": "2024-01-07"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.7-rc8",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.7",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.7-rc8/v6.7-rc7",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.7/v6.6",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.7-rc8/v6.6",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.7-rc8/v6.7-rc7"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.7.xz",
+        "incremental": null
       }
     },
     {
@@ -149,15 +149,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20240105",
+      "version": "next-20240108",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1704436615,
-        "isodate": "2024-01-05"
+        "timestamp": 1704690485,
+        "isodate": "2024-01-08"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240105",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240108",
       "changelog": null,
       "diffview": null,
       "patch": {
