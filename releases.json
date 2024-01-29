@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.8-rc1",
+      "version": "6.8-rc2",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc1.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc2.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1705875092,
-        "isodate": "2024-01-21"
+        "timestamp": 1706490072,
+        "isodate": "2024-01-29"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc1",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc2",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc1/v6.7",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc2/v6.8-rc1",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.8-rc1/v6.7",
-        "incremental": null
+        "full": "https://git.kernel.org/torvalds/p/v6.8-rc2/v6.7",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.8-rc2/v6.8-rc1"
       }
     },
     {
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20240125",
+      "version": "next-20240129",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1706154086,
-        "isodate": "2024-01-25"
+        "timestamp": 1706498930,
+        "isodate": "2024-01-29"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240125",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240129",
       "changelog": null,
       "diffview": null,
       "patch": {
