@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.8-rc3",
+      "version": "6.8-rc4",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc3.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc4.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1707049236,
-        "isodate": "2024-02-04"
+        "timestamp": 1707682693,
+        "isodate": "2024-02-11"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc3",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc4",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc3/v6.8-rc2",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc4/v6.8-rc3",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.8-rc3/v6.7",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.8-rc3/v6.8-rc2"
+        "full": "https://git.kernel.org/torvalds/p/v6.8-rc4/v6.7",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.8-rc4/v6.8-rc3"
       }
     },
     {
@@ -145,24 +145,6 @@
       "patch": {
         "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.306.xz",
         "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.305-306.xz"
-      }
-    },
-    {
-      "iseol": true,
-      "version": "4.14.336",
-      "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.336.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.336.tar.sign",
-      "released": {
-        "timestamp": 1704894345,
-        "isodate": "2024-01-10"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v4.14.336",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.14.336",
-      "diffview": "https://git.kernel.org/stable/ds/v4.14.336/v4.14.335",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.14.336.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.335-336.xz"
       }
     },
     {
