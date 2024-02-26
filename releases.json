@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.8-rc5",
+      "version": "6.8-rc6",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc5.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.8-rc6.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1708289785,
-        "isodate": "2024-02-18"
+        "timestamp": 1708904766,
+        "isodate": "2024-02-25"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc5",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.8-rc6",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc5/v6.8-rc4",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.8-rc6/v6.8-rc5",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.8-rc5/v6.7",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.8-rc5/v6.8-rc4"
+        "full": "https://git.kernel.org/torvalds/p/v6.8-rc6/v6.7",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.8-rc6/v6.8-rc5"
       }
     },
     {
