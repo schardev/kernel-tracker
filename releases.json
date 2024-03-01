@@ -113,51 +113,51 @@
     },
     {
       "iseol": false,
-      "version": "5.4.269",
+      "version": "5.4.270",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.269.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.269.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.270.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.270.tar.sign",
       "released": {
-        "timestamp": 1708673144,
-        "isodate": "2024-02-23"
+        "timestamp": 1709295222,
+        "isodate": "2024-03-01"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.269",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.269",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.269/v5.4.268",
+      "gitweb": "https://git.kernel.org/stable/h/v5.4.270",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.270",
+      "diffview": "https://git.kernel.org/stable/ds/v5.4.270/v5.4.269",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.269.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.268-269.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.270.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.269-270.xz"
       }
     },
     {
       "iseol": false,
-      "version": "4.19.307",
+      "version": "4.19.308",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.307.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.307.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.308.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.308.tar.sign",
       "released": {
-        "timestamp": 1708672383,
-        "isodate": "2024-02-23"
+        "timestamp": 1709294776,
+        "isodate": "2024-03-01"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v4.19.307",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.307",
-      "diffview": "https://git.kernel.org/stable/ds/v4.19.307/v4.19.306",
+      "gitweb": "https://git.kernel.org/stable/h/v4.19.308",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.308",
+      "diffview": "https://git.kernel.org/stable/ds/v4.19.308/v4.19.307",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.307.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.306-307.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.308.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.307-308.xz"
       }
     },
     {
       "iseol": false,
-      "version": "next-20240229",
+      "version": "next-20240301",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1709185127,
-        "isodate": "2024-02-29"
+        "timestamp": 1709272450,
+        "isodate": "2024-03-01"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240229",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240301",
       "changelog": null,
       "diffview": null,
       "patch": {
