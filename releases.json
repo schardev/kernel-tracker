@@ -40,7 +40,7 @@
       }
     },
     {
-      "iseol": false,
+      "iseol": true,
       "version": "6.7.12",
       "moniker": "stable",
       "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.12.tar.xz",
