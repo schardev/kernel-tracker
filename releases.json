@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.9-rc3",
+      "version": "6.9-rc4",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.9-rc3.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.9-rc4.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1712521366,
-        "isodate": "2024-04-07"
+        "timestamp": 1713127119,
+        "isodate": "2024-04-14"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.9-rc3",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.9-rc4",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.9-rc3/v6.9-rc2",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.9-rc4/v6.9-rc3",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.9-rc3/v6.8",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.9-rc3/v6.9-rc2"
+        "full": "https://git.kernel.org/torvalds/p/v6.9-rc4/v6.8",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.9-rc4/v6.9-rc3"
       }
     },
     {
