@@ -40,24 +40,6 @@
       }
     },
     {
-      "iseol": true,
-      "version": "6.7.12",
-      "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.12.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.12.tar.sign",
-      "released": {
-        "timestamp": 1712150017,
-        "isodate": "2024-04-03"
-      },
-      "gitweb": "https://git.kernel.org/stable/h/v6.7.12",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.7.12",
-      "diffview": "https://git.kernel.org/stable/ds/v6.7.12/v6.7.11",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.7.12.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.7.11-12.xz"
-      }
-    },
-    {
       "iseol": false,
       "version": "6.6.30",
       "moniker": "longterm",
