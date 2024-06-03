@@ -5,20 +5,20 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.10-rc1",
+      "version": "6.10-rc2",
       "moniker": "mainline",
-      "source": "https://git.kernel.org/torvalds/t/linux-6.10-rc1.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.10-rc2.tar.gz",
       "pgp": null,
       "released": {
-        "timestamp": 1716762012,
-        "isodate": "2024-05-26"
+        "timestamp": 1717368296,
+        "isodate": "2024-06-02"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.10-rc1",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.10-rc2",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.10-rc1/v6.9",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.10-rc2/v6.10-rc1",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.10-rc1/v6.9",
-        "incremental": null
+        "full": "https://git.kernel.org/torvalds/p/v6.10-rc2/v6.9",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.10-rc2/v6.10-rc1"
       }
     },
     {
