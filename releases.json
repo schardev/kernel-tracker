@@ -41,20 +41,20 @@
     },
     {
       "iseol": false,
-      "version": "6.6.37",
+      "version": "6.6.38",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.37.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.37.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.38.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.38.tar.sign",
       "released": {
-        "timestamp": 1720164888,
-        "isodate": "2024-07-05"
+        "timestamp": 1720518274,
+        "isodate": "2024-07-09"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.37",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.37",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.37/v6.6.36",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.38",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.38",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.38/v6.6.37",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.37.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.36-37.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.38.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.37-38.xz"
       }
     },
     {
@@ -149,15 +149,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20240703",
+      "version": "next-20240709",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1719987260,
-        "isodate": "2024-07-03"
+        "timestamp": 1720516997,
+        "isodate": "2024-07-09"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240703",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240709",
       "changelog": null,
       "diffview": null,
       "patch": {
