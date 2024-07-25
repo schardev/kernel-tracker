@@ -41,56 +41,56 @@
     },
     {
       "iseol": false,
-      "version": "6.9.10",
+      "version": "6.9.11",
       "moniker": "stable",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.10.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.10.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.11.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.11.tar.sign",
       "released": {
-        "timestamp": 1721301795,
-        "isodate": "2024-07-18"
+        "timestamp": 1721894254,
+        "isodate": "2024-07-25"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.9.10",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.9.10",
-      "diffview": "https://git.kernel.org/stable/ds/v6.9.10/v6.9.9",
+      "gitweb": "https://git.kernel.org/stable/h/v6.9.11",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.9.11",
+      "diffview": "https://git.kernel.org/stable/ds/v6.9.11/v6.9.10",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.9.10.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.9.9-10.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.9.11.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.9.10-11.xz"
       }
     },
     {
       "iseol": false,
-      "version": "6.6.41",
+      "version": "6.6.42",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.41.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.41.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.42.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.42.tar.sign",
       "released": {
-        "timestamp": 1721301690,
-        "isodate": "2024-07-18"
+        "timestamp": 1721893907,
+        "isodate": "2024-07-25"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.41",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.41",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.41/v6.6.40",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.42",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.42",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.42/v6.6.41",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.41.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.40-41.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.42.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.41-42.xz"
       }
     },
     {
       "iseol": false,
-      "version": "6.1.100",
+      "version": "6.1.101",
       "moniker": "longterm",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.100.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.100.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.101.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.101.tar.sign",
       "released": {
-        "timestamp": 1721301597,
-        "isodate": "2024-07-18"
+        "timestamp": 1721893768,
+        "isodate": "2024-07-25"
       },
-      "gitweb": "https://git.kernel.org/stable/h/v6.1.100",
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.100",
-      "diffview": "https://git.kernel.org/stable/ds/v6.1.100/v6.1.99",
+      "gitweb": "https://git.kernel.org/stable/h/v6.1.101",
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.101",
+      "diffview": "https://git.kernel.org/stable/ds/v6.1.101/v6.1.100",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.100.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.99-100.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.101.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.100-101.xz"
       }
     },
     {
