@@ -5,19 +5,19 @@
   "releases": [
     {
       "iseol": false,
-      "version": "6.10",
+      "version": "6.11-rc1",
       "moniker": "mainline",
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.11-rc1.tar.gz",
+      "pgp": null,
       "released": {
-        "timestamp": 1720997012,
-        "isodate": "2024-07-14"
+        "timestamp": 1722201595,
+        "isodate": "2024-07-28"
       },
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.10",
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.11-rc1",
       "changelog": null,
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.10/v6.9",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.11-rc1/v6.10",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.10.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.11-rc1/v6.10",
         "incremental": null
       }
     },
