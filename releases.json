@@ -40,7 +40,7 @@
       }
     },
     {
-      "iseol": false,
+      "iseol": true,
       "version": "6.9.12",
       "moniker": "stable",
       "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.9.12.tar.xz",
@@ -167,15 +167,15 @@
     },
     {
       "iseol": false,
-      "version": "next-20240726",
+      "version": "next-20240729",
       "moniker": "linux-next",
       "source": null,
       "pgp": null,
       "released": {
-        "timestamp": 1721963106,
-        "isodate": "2024-07-26"
+        "timestamp": 1722218923,
+        "isodate": "2024-07-29"
       },
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240726",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20240729",
       "changelog": null,
       "diffview": null,
       "patch": {
