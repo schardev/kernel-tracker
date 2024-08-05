@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.11-rc1",
+      "version": "6.11-rc2",
       "iseol": false,
       "released": {
-        "timestamp": 1722201595,
-        "isodate": "2024-07-28"
+        "timestamp": 1722804653,
+        "isodate": "2024-08-04"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.11-rc1.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.11-rc2.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.11-rc1/v6.10",
-        "incremental": null
+        "full": "https://git.kernel.org/torvalds/p/v6.11-rc2/v6.10",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.11-rc2/v6.11-rc1"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.11-rc1",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.11-rc1/v6.10"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.11-rc2",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.11-rc2/v6.11-rc1"
     },
     {
       "moniker": "stable",
