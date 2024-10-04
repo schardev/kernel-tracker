@@ -20,57 +20,57 @@
     },
     {
       "moniker": "stable",
-      "version": "6.11.1",
+      "version": "6.11.2",
       "iseol": false,
       "released": {
-        "timestamp": 1727706873,
-        "isodate": "2024-09-30"
+        "timestamp": 1728052771,
+        "isodate": "2024-10-04"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.1.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.1.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.2.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.2.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.11.1.xz",
-        "incremental": null
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.11.2.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.11.1-2.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.11.1",
-      "gitweb": "https://git.kernel.org/stable/h/v6.11.1",
-      "diffview": "https://git.kernel.org/stable/ds/v6.11.1/v6.11"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.11.2",
+      "gitweb": "https://git.kernel.org/stable/h/v6.11.2",
+      "diffview": "https://git.kernel.org/stable/ds/v6.11.2/v6.11.1"
     },
     {
       "moniker": "stable",
-      "version": "6.10.12",
+      "version": "6.10.13",
       "iseol": false,
       "released": {
-        "timestamp": 1727706614,
-        "isodate": "2024-09-30"
+        "timestamp": 1728052505,
+        "isodate": "2024-10-04"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.12.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.12.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.13.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.13.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.10.12.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.10.11-12.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.10.13.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.10.12-13.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.10.12",
-      "gitweb": "https://git.kernel.org/stable/h/v6.10.12",
-      "diffview": "https://git.kernel.org/stable/ds/v6.10.12/v6.10.11"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.10.13",
+      "gitweb": "https://git.kernel.org/stable/h/v6.10.13",
+      "diffview": "https://git.kernel.org/stable/ds/v6.10.13/v6.10.12"
     },
     {
       "moniker": "longterm",
-      "version": "6.6.53",
+      "version": "6.6.54",
       "iseol": false,
       "released": {
-        "timestamp": 1727706509,
-        "isodate": "2024-09-30"
+        "timestamp": 1728052221,
+        "isodate": "2024-10-04"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.53.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.53.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.54.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.54.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.53.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.52-53.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.54.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.53-54.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.53",
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.53",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.53/v6.6.52"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.54",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.54",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.54/v6.6.53"
     },
     {
       "moniker": "longterm",
@@ -182,6 +182,6 @@
     }
   ],
   "latest_stable": {
-    "version": "6.11.1"
+    "version": "6.11.2"
   }
 }
