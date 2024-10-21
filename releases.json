@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.12-rc3",
+      "version": "6.12-rc4",
       "iseol": false,
       "released": {
-        "timestamp": 1728855213,
-        "isodate": "2024-10-13"
+        "timestamp": 1729462778,
+        "isodate": "2024-10-20"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.12-rc3.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.12-rc4.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.12-rc3/v6.11",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.12-rc3/v6.12-rc2"
+        "full": "https://git.kernel.org/torvalds/p/v6.12-rc4/v6.11",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.12-rc4/v6.12-rc3"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.12-rc3",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.12-rc3/v6.12-rc2"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.12-rc4",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.12-rc4/v6.12-rc3"
     },
     {
       "moniker": "stable",
