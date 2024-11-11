@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.12-rc6",
+      "version": "6.12-rc7",
       "iseol": false,
       "released": {
-        "timestamp": 1730678752,
-        "isodate": "2024-11-04"
+        "timestamp": 1731277175,
+        "isodate": "2024-11-10"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.12-rc6.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.12-rc7.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.12-rc6/v6.11",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.12-rc6/v6.12-rc5"
+        "full": "https://git.kernel.org/torvalds/p/v6.12-rc7/v6.11",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.12-rc7/v6.12-rc6"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.12-rc6",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.12-rc6/v6.12-rc5"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.12-rc7",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.12-rc7/v6.12-rc6"
     },
     {
       "moniker": "stable",
@@ -35,24 +35,6 @@
       "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.11.7",
       "gitweb": "https://git.kernel.org/stable/h/v6.11.7",
       "diffview": "https://git.kernel.org/stable/ds/v6.11.7/v6.11.6"
-    },
-    {
-      "moniker": "stable",
-      "version": "6.10.14",
-      "iseol": true,
-      "released": {
-        "timestamp": 1728554490,
-        "isodate": "2024-10-10"
-      },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.14.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.14.tar.sign",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.10.14.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.10.13-14.xz"
-      },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.10.14",
-      "gitweb": "https://git.kernel.org/stable/h/v6.10.14",
-      "diffview": "https://git.kernel.org/stable/ds/v6.10.14/v6.10.13"
     },
     {
       "moniker": "longterm",
