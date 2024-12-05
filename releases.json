@@ -146,21 +146,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "4.19.324",
-      "iseol": false,
+      "version": "4.19.325",
+      "iseol": true,
       "released": {
-        "timestamp": 1731851893,
-        "isodate": "2024-11-17"
+        "timestamp": 1733392788,
+        "isodate": "2024-12-05"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.324.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.324.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.325.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.325.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.324.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.323-324.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v4.x/patch-4.19.325.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.19.324-325.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.324",
-      "gitweb": "https://git.kernel.org/stable/h/v4.19.324",
-      "diffview": "https://git.kernel.org/stable/ds/v4.19.324/v4.19.323"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.325",
+      "gitweb": "https://git.kernel.org/stable/h/v4.19.325",
+      "diffview": "https://git.kernel.org/stable/ds/v4.19.325/v4.19.324"
     },
     {
       "moniker": "linux-next",
