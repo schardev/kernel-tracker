@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.13-rc2",
+      "version": "6.13-rc3",
       "iseol": false,
       "released": {
-        "timestamp": 1733695419,
-        "isodate": "2024-12-08"
+        "timestamp": 1734307103,
+        "isodate": "2024-12-15"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.13-rc2.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.13-rc3.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.13-rc2/v6.12",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.13-rc2/v6.13-rc1"
+        "full": "https://git.kernel.org/torvalds/p/v6.13-rc3/v6.12",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.13-rc3/v6.13-rc2"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.13-rc2",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.13-rc2/v6.13-rc1"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.13-rc3",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.13-rc3/v6.13-rc2"
     },
     {
       "moniker": "stable",
