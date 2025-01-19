@@ -56,21 +56,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "6.1.125",
+      "version": "6.1.126",
       "iseol": false,
       "released": {
-        "timestamp": 1737117302,
-        "isodate": "2025-01-17"
+        "timestamp": 1737273680,
+        "isodate": "2025-01-19"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.125.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.125.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.126.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.126.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.125.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.124-125.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.126.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.125-126.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.125",
-      "gitweb": "https://git.kernel.org/stable/h/v6.1.125",
-      "diffview": "https://git.kernel.org/stable/ds/v6.1.125/v6.1.124"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.126",
+      "gitweb": "https://git.kernel.org/stable/h/v6.1.126",
+      "diffview": "https://git.kernel.org/stable/ds/v6.1.126/v6.1.125"
     },
     {
       "moniker": "longterm",
