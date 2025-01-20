@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.13-rc7",
+      "version": "6.13",
       "iseol": false,
       "released": {
-        "timestamp": 1736721476,
-        "isodate": "2025-01-12"
+        "timestamp": 1737330705,
+        "isodate": "2025-01-19"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.13-rc7.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.tar.sign",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.13-rc7/v6.12",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.13-rc7/v6.13-rc6"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.13.xz",
+        "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.13-rc7",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.13-rc7/v6.13-rc6"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.13",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.13/v6.12"
     },
     {
       "moniker": "stable",
@@ -146,6 +146,6 @@
     }
   ],
   "latest_stable": {
-    "version": "6.12.10"
+    "version": "6.13"
   }
 }
