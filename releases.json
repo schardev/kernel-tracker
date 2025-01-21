@@ -38,21 +38,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "6.6.72",
+      "version": "6.6.73",
       "iseol": false,
       "released": {
-        "timestamp": 1737117546,
-        "isodate": "2025-01-17"
+        "timestamp": 1737449354,
+        "isodate": "2025-01-21"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.72.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.72.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.73.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.73.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.72.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.71-72.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.73.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.72-73.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.72",
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.72",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.72/v6.6.71"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.73",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.73",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.73/v6.6.72"
     },
     {
       "moniker": "longterm",
@@ -128,11 +128,11 @@
     },
     {
       "moniker": "linux-next",
-      "version": "next-20250120",
+      "version": "next-20250121",
       "iseol": false,
       "released": {
-        "timestamp": 1737361905,
-        "isodate": "2025-01-20"
+        "timestamp": 1737443839,
+        "isodate": "2025-01-21"
       },
       "source": null,
       "pgp": null,
@@ -141,7 +141,7 @@
         "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20250120",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20250121",
       "diffview": null
     }
   ],
