@@ -56,21 +56,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "6.6.76",
+      "version": "6.6.77",
       "iseol": false,
       "released": {
-        "timestamp": 1739004803,
-        "isodate": "2025-02-08"
+        "timestamp": 1739263059,
+        "isodate": "2025-02-11"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.76.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.76.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.77.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.77.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.76.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.75-76.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.77.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.76-77.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.76",
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.76",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.76/v6.6.75"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.77",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.77",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.77/v6.6.76"
     },
     {
       "moniker": "longterm",
