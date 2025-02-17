@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.14-rc2",
+      "version": "6.14-rc3",
       "iseol": false,
       "released": {
-        "timestamp": 1739133903,
-        "isodate": "2025-02-09"
+        "timestamp": 1739743364,
+        "isodate": "2025-02-16"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.14-rc2.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.14-rc3.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.14-rc2/v6.13",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.14-rc2/v6.14-rc1"
+        "full": "https://git.kernel.org/torvalds/p/v6.14-rc3/v6.13",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.14-rc3/v6.14-rc2"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.14-rc2",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.14-rc2/v6.14-rc1"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.14-rc3",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.14-rc3/v6.14-rc2"
     },
     {
       "moniker": "stable",
