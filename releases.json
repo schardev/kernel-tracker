@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.15-rc4",
+      "version": "6.15-rc5",
       "iseol": false,
       "released": {
-        "timestamp": 1745792363,
-        "isodate": "2025-04-27"
+        "timestamp": 1746392104,
+        "isodate": "2025-05-04"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.15-rc4.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.15-rc5.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.15-rc4/v6.14",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.15-rc4/v6.15-rc3"
+        "full": "https://git.kernel.org/torvalds/p/v6.15-rc5/v6.14",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.15-rc5/v6.15-rc4"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.15-rc4",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.15-rc4/v6.15-rc3"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.15-rc5",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.15-rc5/v6.15-rc4"
     },
     {
       "moniker": "stable",
