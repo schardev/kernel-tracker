@@ -37,24 +37,6 @@
       "diffview": "https://git.kernel.org/stable/ds/v6.14.7/v6.14.6"
     },
     {
-      "moniker": "stable",
-      "version": "6.13.12",
-      "iseol": true,
-      "released": {
-        "timestamp": 1745137263,
-        "isodate": "2025-04-20"
-      },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.12.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.12.tar.sign",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.13.12.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.13.11-12.xz"
-      },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.13.12",
-      "gitweb": "https://git.kernel.org/stable/h/v6.13.12",
-      "diffview": "https://git.kernel.org/stable/ds/v6.13.12/v6.13.11"
-    },
-    {
       "moniker": "longterm",
       "version": "6.12.29",
       "iseol": false,
