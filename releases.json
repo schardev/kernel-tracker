@@ -146,11 +146,11 @@
     },
     {
       "moniker": "linux-next",
-      "version": "next-20250728",
+      "version": "next-20250729",
       "iseol": false,
       "released": {
-        "timestamp": 1753680941,
-        "isodate": "2025-07-28"
+        "timestamp": 1753767192,
+        "isodate": "2025-07-29"
       },
       "source": null,
       "pgp": null,
@@ -159,7 +159,7 @@
         "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20250728",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20250729",
       "diffview": null
     }
   ],
