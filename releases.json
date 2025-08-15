@@ -19,22 +19,22 @@
       "diffview": "https://git.kernel.org/torvalds/ds/v6.17-rc1/v6.16"
     },
     {
-      "moniker": "mainline",
-      "version": "6.16",
+      "moniker": "stable",
+      "version": "6.16.1",
       "iseol": false,
       "released": {
-        "timestamp": 1753651598,
-        "isodate": "2025-07-27"
+        "timestamp": 1755268808,
+        "isodate": "2025-08-15"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.1.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.1.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.16.xz",
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.16.1.xz",
         "incremental": null
       },
-      "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.16",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.16/v6.15"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.16.1",
+      "gitweb": "https://git.kernel.org/stable/h/v6.16.1",
+      "diffview": "https://git.kernel.org/stable/ds/v6.16.1/v6.16"
     },
     {
       "moniker": "stable",
@@ -182,6 +182,6 @@
     }
   ],
   "latest_stable": {
-    "version": "6.16"
+    "version": "6.16.1"
   }
 }
