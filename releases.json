@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.17-rc3",
+      "version": "6.17-rc4",
       "iseol": false,
       "released": {
-        "timestamp": 1756051452,
-        "isodate": "2025-08-24"
+        "timestamp": 1756679587,
+        "isodate": "2025-08-31"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.17-rc3.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.17-rc4.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.17-rc3/v6.16",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.17-rc3/v6.17-rc2"
+        "full": "https://git.kernel.org/torvalds/p/v6.17-rc4/v6.16",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.17-rc4/v6.17-rc3"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.17-rc3",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.17-rc3/v6.17-rc2"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.17-rc4",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.17-rc4/v6.17-rc3"
     },
     {
       "moniker": "stable",
