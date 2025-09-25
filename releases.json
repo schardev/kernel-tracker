@@ -20,75 +20,75 @@
     },
     {
       "moniker": "stable",
-      "version": "6.16.8",
+      "version": "6.16.9",
       "iseol": false,
       "released": {
-        "timestamp": 1758292721,
-        "isodate": "2025-09-19"
+        "timestamp": 1758791821,
+        "isodate": "2025-09-25"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.8.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.8.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.9.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.16.9.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.16.8.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.16.7-8.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.16.9.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.16.8-9.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.16.8",
-      "gitweb": "https://git.kernel.org/stable/h/v6.16.8",
-      "diffview": "https://git.kernel.org/stable/ds/v6.16.8/v6.16.7"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.16.9",
+      "gitweb": "https://git.kernel.org/stable/h/v6.16.9",
+      "diffview": "https://git.kernel.org/stable/ds/v6.16.9/v6.16.8"
     },
     {
       "moniker": "longterm",
-      "version": "6.12.48",
+      "version": "6.12.49",
       "iseol": false,
       "released": {
-        "timestamp": 1758292573,
-        "isodate": "2025-09-19"
+        "timestamp": 1758791759,
+        "isodate": "2025-09-25"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.48.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.48.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.49.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.49.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.48.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.47-48.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.49.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.48-49.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.48",
-      "gitweb": "https://git.kernel.org/stable/h/v6.12.48",
-      "diffview": "https://git.kernel.org/stable/ds/v6.12.48/v6.12.47"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.49",
+      "gitweb": "https://git.kernel.org/stable/h/v6.12.49",
+      "diffview": "https://git.kernel.org/stable/ds/v6.12.49/v6.12.48"
     },
     {
       "moniker": "longterm",
-      "version": "6.6.107",
+      "version": "6.6.108",
       "iseol": false,
       "released": {
-        "timestamp": 1758292332,
-        "isodate": "2025-09-19"
+        "timestamp": 1758790947,
+        "isodate": "2025-09-25"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.107.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.107.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.108.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.108.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.107.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.106-107.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.108.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.107-108.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.107",
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.107",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.107/v6.6.106"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.108",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.108",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.108/v6.6.107"
     },
     {
       "moniker": "longterm",
-      "version": "6.1.153",
+      "version": "6.1.154",
       "iseol": false,
       "released": {
-        "timestamp": 1758292215,
-        "isodate": "2025-09-19"
+        "timestamp": 1758790760,
+        "isodate": "2025-09-25"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.153.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.153.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.154.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.154.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.153.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.152-153.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.154.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.153-154.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.153",
-      "gitweb": "https://git.kernel.org/stable/h/v6.1.153",
-      "diffview": "https://git.kernel.org/stable/ds/v6.1.153/v6.1.152"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.154",
+      "gitweb": "https://git.kernel.org/stable/h/v6.1.154",
+      "diffview": "https://git.kernel.org/stable/ds/v6.1.154/v6.1.153"
     },
     {
       "moniker": "longterm",
@@ -164,6 +164,6 @@
     }
   ],
   "latest_stable": {
-    "version": "6.16.8"
+    "version": "6.16.9"
   }
 }
