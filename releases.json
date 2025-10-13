@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.17",
+      "version": "6.18-rc1",
       "iseol": false,
       "released": {
-        "timestamp": 1759095562,
-        "isodate": "2025-09-28"
+        "timestamp": 1760301756,
+        "isodate": "2025-10-12"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.17.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.17.tar.sign",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.18-rc1.tar.gz",
+      "pgp": null,
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.17.xz",
+        "full": "https://git.kernel.org/torvalds/p/v6.18-rc1/v6.17",
         "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.17",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.17/v6.16"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.18-rc1",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.18-rc1/v6.17"
     },
     {
       "moniker": "stable",
