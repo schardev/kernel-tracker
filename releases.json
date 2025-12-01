@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.18-rc7",
+      "version": "6.18",
       "iseol": false,
       "released": {
-        "timestamp": 1763938396,
-        "isodate": "2025-11-23"
+        "timestamp": 1764542530,
+        "isodate": "2025-11-30"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.18-rc7.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.tar.sign",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.18-rc7/v6.17",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.18-rc7/v6.18-rc6"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.18.xz",
+        "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.18-rc7",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.18-rc7/v6.18-rc6"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.18",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.18/v6.17"
     },
     {
       "moniker": "stable",
@@ -146,11 +146,11 @@
     },
     {
       "moniker": "linux-next",
-      "version": "next-20251128",
+      "version": "next-20251201",
       "iseol": false,
       "released": {
-        "timestamp": 1764307667,
-        "isodate": "2025-11-28"
+        "timestamp": 1764558552,
+        "isodate": "2025-12-01"
       },
       "source": null,
       "pgp": null,
@@ -159,11 +159,11 @@
         "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20251128",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20251201",
       "diffview": null
     }
   ],
   "latest_stable": {
-    "version": "6.17.9"
+    "version": "6.18"
   }
 }
