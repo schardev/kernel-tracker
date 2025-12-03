@@ -128,21 +128,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "5.4.301",
-      "iseol": false,
+      "version": "5.4.302",
+      "iseol": true,
       "released": {
-        "timestamp": 1761742809,
-        "isodate": "2025-10-29"
+        "timestamp": 1764762507,
+        "isodate": "2025-12-03"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.301.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.301.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.302.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.302.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.301.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.300-301.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.302.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.301-302.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.301",
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.301",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.301/v5.4.300"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.302",
+      "gitweb": "https://git.kernel.org/stable/h/v5.4.302",
+      "diffview": "https://git.kernel.org/stable/ds/v5.4.302/v5.4.301"
     },
     {
       "moniker": "linux-next",
