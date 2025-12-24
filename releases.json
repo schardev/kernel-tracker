@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.19-rc1",
+      "version": "6.19-rc2",
       "iseol": false,
       "released": {
-        "timestamp": 1765685107,
-        "isodate": "2025-12-14"
+        "timestamp": 1766361124,
+        "isodate": "2025-12-21"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.19-rc1.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.19-rc2.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.19-rc1/v6.18",
-        "incremental": null
+        "full": "https://git.kernel.org/torvalds/p/v6.19-rc2/v6.18",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.19-rc2/v6.19-rc1"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.19-rc1",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.19-rc1/v6.18"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.19-rc2",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.19-rc2/v6.19-rc1"
     },
     {
       "moniker": "stable",
