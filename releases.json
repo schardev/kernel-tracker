@@ -20,21 +20,21 @@
     },
     {
       "moniker": "stable",
-      "version": "6.18.2",
+      "version": "6.18.3",
       "iseol": false,
       "released": {
-        "timestamp": 1766063072,
-        "isodate": "2025-12-18"
+        "timestamp": 1767355060,
+        "isodate": "2026-01-02"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.2.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.2.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.3.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.3.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.18.2.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.18.1-2.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.18.3.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.18.2-3.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.2",
-      "gitweb": "https://git.kernel.org/stable/h/v6.18.2",
-      "diffview": "https://git.kernel.org/stable/ds/v6.18.2/v6.18.1"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.3",
+      "gitweb": "https://git.kernel.org/stable/h/v6.18.3",
+      "diffview": "https://git.kernel.org/stable/ds/v6.18.3/v6.18.2"
     },
     {
       "moniker": "stable",
@@ -145,24 +145,6 @@
       "diffview": "https://git.kernel.org/stable/ds/v5.10.247/v5.10.246"
     },
     {
-      "moniker": "longterm",
-      "version": "5.4.302",
-      "iseol": true,
-      "released": {
-        "timestamp": 1764762507,
-        "isodate": "2025-12-03"
-      },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.302.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.302.tar.sign",
-      "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.4.302.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v5.x/incr/patch-5.4.301-302.xz"
-      },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.302",
-      "gitweb": "https://git.kernel.org/stable/h/v5.4.302",
-      "diffview": "https://git.kernel.org/stable/ds/v5.4.302/v5.4.301"
-    },
-    {
       "moniker": "linux-next",
       "version": "next-20251219",
       "iseol": false,
@@ -182,6 +164,6 @@
     }
   ],
   "latest_stable": {
-    "version": "6.18.2"
+    "version": "6.18.3"
   }
 }
