@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "6.19-rc3",
+      "version": "6.19-rc4",
       "iseol": false,
       "released": {
-        "timestamp": 1766957066,
-        "isodate": "2025-12-28"
+        "timestamp": 1767566515,
+        "isodate": "2026-01-04"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-6.19-rc3.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-6.19-rc4.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v6.19-rc3/v6.18",
-        "incremental": "https://git.kernel.org/torvalds/p/v6.19-rc3/v6.19-rc2"
+        "full": "https://git.kernel.org/torvalds/p/v6.19-rc4/v6.18",
+        "incremental": "https://git.kernel.org/torvalds/p/v6.19-rc4/v6.19-rc3"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v6.19-rc3",
-      "diffview": "https://git.kernel.org/torvalds/ds/v6.19-rc3/v6.19-rc2"
+      "gitweb": "https://git.kernel.org/torvalds/h/v6.19-rc4",
+      "diffview": "https://git.kernel.org/torvalds/ds/v6.19-rc4/v6.19-rc3"
     },
     {
       "moniker": "stable",
@@ -146,11 +146,11 @@
     },
     {
       "moniker": "linux-next",
-      "version": "next-20251219",
+      "version": "next-20260105",
       "iseol": false,
       "released": {
-        "timestamp": 1766113939,
-        "isodate": "2025-12-19"
+        "timestamp": 1767592834,
+        "isodate": "2026-01-05"
       },
       "source": null,
       "pgp": null,
@@ -159,7 +159,7 @@
         "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20251219",
+      "gitweb": "https://git.kernel.org/next/linux-next/h/next-20260105",
       "diffview": null
     }
   ],
