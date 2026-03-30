@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "7.0-rc5",
+      "version": "7.0-rc6",
       "iseol": false,
       "released": {
-        "timestamp": 1774215737,
-        "isodate": "2026-03-22"
+        "timestamp": 1774824000,
+        "isodate": "2026-03-29"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-7.0-rc5.tar.gz",
+      "source": "https://git.kernel.org/torvalds/t/linux-7.0-rc6.tar.gz",
       "pgp": null,
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v7.0-rc5/vNone",
-        "incremental": "https://git.kernel.org/torvalds/p/v7.0-rc5/v7.0-rc4"
+        "full": "https://git.kernel.org/torvalds/p/v7.0-rc6/vNone",
+        "incremental": "https://git.kernel.org/torvalds/p/v7.0-rc6/v7.0-rc5"
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v7.0-rc5",
-      "diffview": "https://git.kernel.org/torvalds/ds/v7.0-rc5/v7.0-rc4"
+      "gitweb": "https://git.kernel.org/torvalds/h/v7.0-rc6",
+      "diffview": "https://git.kernel.org/torvalds/ds/v7.0-rc6/v7.0-rc5"
     },
     {
       "moniker": "stable",
