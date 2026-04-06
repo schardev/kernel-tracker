@@ -74,21 +74,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "6.6.132",
+      "version": "6.6.133",
       "iseol": false,
       "released": {
-        "timestamp": 1775131235,
-        "isodate": "2026-04-02"
+        "timestamp": 1775462165,
+        "isodate": "2026-04-06"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.132.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.132.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.133.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.133.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.132.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.131-132.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.133.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.132-133.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.132",
-      "gitweb": "https://git.kernel.org/stable/h/v6.6.132",
-      "diffview": "https://git.kernel.org/stable/ds/v6.6.132/v6.6.131"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.133",
+      "gitweb": "https://git.kernel.org/stable/h/v6.6.133",
+      "diffview": "https://git.kernel.org/stable/ds/v6.6.133/v6.6.132"
     },
     {
       "moniker": "longterm",
