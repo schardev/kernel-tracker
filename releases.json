@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "7.1-rc7",
+      "version": "7.1",
       "iseol": false,
       "released": {
-        "timestamp": 1780871878,
-        "isodate": "2026-06-07"
+        "timestamp": 1781449118,
+        "isodate": "2026-06-14"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-7.1-rc7.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.tar.sign",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v7.1-rc7/v7.0",
-        "incremental": "https://git.kernel.org/torvalds/p/v7.1-rc7/v7.1-rc6"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.1.xz",
+        "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v7.1-rc7",
-      "diffview": "https://git.kernel.org/torvalds/ds/v7.1-rc7/v7.1-rc6"
+      "gitweb": "https://git.kernel.org/torvalds/h/v7.1",
+      "diffview": "https://git.kernel.org/torvalds/ds/v7.1/v7.0"
     },
     {
       "moniker": "stable",
@@ -164,6 +164,6 @@
     }
   ],
   "latest_stable": {
-    "version": "7.0.12"
+    "version": "7.1"
   }
 }
