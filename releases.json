@@ -20,57 +20,57 @@
     },
     {
       "moniker": "stable",
-      "version": "7.1.1",
+      "version": "7.1.2",
       "iseol": false,
       "released": {
-        "timestamp": 1781869863,
-        "isodate": "2026-06-19"
+        "timestamp": 1782554934,
+        "isodate": "2026-06-27"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.1.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.1.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.2.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.1.2.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.1.1.xz",
-        "incremental": null
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.1.2.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v7.x/incr/patch-7.1.1-2.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.1",
-      "gitweb": "https://git.kernel.org/stable/h/v7.1.1",
-      "diffview": "https://git.kernel.org/stable/ds/v7.1.1/v7.1"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.2",
+      "gitweb": "https://git.kernel.org/stable/h/v7.1.2",
+      "diffview": "https://git.kernel.org/stable/ds/v7.1.2/v7.1.1"
     },
     {
       "moniker": "stable",
-      "version": "7.0.13",
-      "iseol": false,
+      "version": "7.0.14",
+      "iseol": true,
       "released": {
-        "timestamp": 1781869735,
-        "isodate": "2026-06-19"
+        "timestamp": 1782554866,
+        "isodate": "2026-06-27"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.0.13.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.0.13.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.0.14.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.0.14.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.0.13.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v7.x/incr/patch-7.0.12-13.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.0.14.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v7.x/incr/patch-7.0.13-14.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.0.13",
-      "gitweb": "https://git.kernel.org/stable/h/v7.0.13",
-      "diffview": "https://git.kernel.org/stable/ds/v7.0.13/v7.0.12"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.0.14",
+      "gitweb": "https://git.kernel.org/stable/h/v7.0.14",
+      "diffview": "https://git.kernel.org/stable/ds/v7.0.14/v7.0.13"
     },
     {
       "moniker": "longterm",
-      "version": "6.18.36",
+      "version": "6.18.37",
       "iseol": false,
       "released": {
-        "timestamp": 1781869491,
-        "isodate": "2026-06-19"
+        "timestamp": 1782554817,
+        "isodate": "2026-06-27"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.36.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.36.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.37.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.37.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.18.36.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.18.35-36.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.18.37.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.18.36-37.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.36",
-      "gitweb": "https://git.kernel.org/stable/h/v6.18.36",
-      "diffview": "https://git.kernel.org/stable/ds/v6.18.36/v6.18.35"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.37",
+      "gitweb": "https://git.kernel.org/stable/h/v6.18.37",
+      "diffview": "https://git.kernel.org/stable/ds/v6.18.37/v6.18.36"
     },
     {
       "moniker": "longterm",
@@ -182,6 +182,6 @@
     }
   ],
   "latest_stable": {
-    "version": "7.1.1"
+    "version": "7.1.2"
   }
 }
