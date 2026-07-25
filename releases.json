@@ -74,21 +74,21 @@
     },
     {
       "moniker": "longterm",
-      "version": "6.12.97",
+      "version": "6.12.98",
       "iseol": false,
       "released": {
-        "timestamp": 1784902494,
-        "isodate": "2026-07-24"
+        "timestamp": 1784959349,
+        "isodate": "2026-07-25"
       },
-      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.97.tar.xz",
-      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.97.tar.sign",
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.98.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.98.tar.sign",
       "patch": {
-        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.97.xz",
-        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.96-97.xz"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.98.xz",
+        "incremental": "https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.97-98.xz"
       },
-      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.97",
-      "gitweb": "https://git.kernel.org/stable/h/v6.12.97",
-      "diffview": "https://git.kernel.org/stable/ds/v6.12.97/v6.12.96"
+      "changelog": "https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.98",
+      "gitweb": "https://git.kernel.org/stable/h/v6.12.98",
+      "diffview": "https://git.kernel.org/stable/ds/v6.12.98/v6.12.97"
     },
     {
       "moniker": "longterm",
