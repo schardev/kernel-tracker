@@ -2,21 +2,21 @@
   "releases": [
     {
       "moniker": "mainline",
-      "version": "7.3-rc7",
+      "version": "7.3",
       "iseol": false,
       "released": {
-        "timestamp": 1791774295,
-        "isodate": "2026-10-12"
+        "timestamp": 1792365298,
+        "isodate": "2026-10-18"
       },
-      "source": "https://git.kernel.org/torvalds/t/linux-7.3-rc7.tar.gz",
-      "pgp": null,
+      "source": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.3.tar.xz",
+      "pgp": "https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-7.3.tar.sign",
       "patch": {
-        "full": "https://git.kernel.org/torvalds/p/v7.3-rc7/v7.2",
-        "incremental": "https://git.kernel.org/torvalds/p/v7.3-rc7/v7.3-rc6"
+        "full": "https://cdn.kernel.org/pub/linux/kernel/v7.x/patch-7.3.xz",
+        "incremental": null
       },
       "changelog": null,
-      "gitweb": "https://git.kernel.org/torvalds/h/v7.3-rc7",
-      "diffview": "https://git.kernel.org/torvalds/ds/v7.3-rc7/v7.3-rc6"
+      "gitweb": "https://git.kernel.org/torvalds/h/v7.3",
+      "diffview": "https://git.kernel.org/torvalds/ds/v7.3/v7.2"
     },
     {
       "moniker": "stable",
@@ -164,6 +164,6 @@
     }
   ],
   "latest_stable": {
-    "version": "7.2.11"
+    "version": "7.3"
   }
 }
